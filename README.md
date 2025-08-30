@@ -73,6 +73,7 @@ $ ./decode compressed.bin outputFile.txt
 
 ## 📸 Screenshots
 Input File
+
 <img width="394" height="382" alt="Image" src="https://github.com/user-attachments/assets/829d5dd1-fde3-462c-9031-eb44de31b7e0" />
 
 Compressed File
