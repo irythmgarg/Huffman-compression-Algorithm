@@ -72,10 +72,14 @@ $ ./decode compressed.bin outputFile.txt
 ---
 
 ## 📸 Screenshots
+Input File
 <img width="394" height="382" alt="Image" src="https://github.com/user-attachments/assets/829d5dd1-fde3-462c-9031-eb44de31b7e0" />
+Compressed File
 <img width="394" height="277" alt="Image" src="https://github.com/user-attachments/assets/b80d8660-86c0-406e-af72-0541b651ae38" />
-<img width="493" height="133" alt="Image" src="https://github.com/user-attachments/assets/ae162327-930c-4d48-9ada-dd4a1c0db16d" />
+How to Compress
 <img width="524" height="121" alt="Image" src="https://github.com/user-attachments/assets/d0c56852-1c04-4a93-abad-5de0e0ca9f32" />
+How to Decompress
+<img width="493" height="133" alt="Image" src="https://github.com/user-attachments/assets/ae162327-930c-4d48-9ada-dd4a1c0db16d" />
 
 📥 **Input File**
 A text file of size `2.2 MB` 📝
