@@ -105,7 +105,9 @@ Exactly matches the original ✅
 ## 🧑‍💻 Author
 
 👨‍🎓 **Ridham Garg**
+
 🎓 Thapar Institute of Engineering and Technology, Patiala
+
 🌟 Passionate about Data Structures, Algorithms & Real-World Applications 🚀
 
 ---
@@ -117,6 +119,13 @@ Exactly matches the original ✅
 * 🗜️ Support for binary/image files.
 
 ---
+
+## 💡  Note- 
+
+Result: This project is just an implementation of Huffman coding, it is not as efficient as the compression algorithm used currently to compress files.
+
+Example: inputFile.txt (2.2MB) is compressed to compressedFile.huf (1.1MB) file and decompressed back to ouputFile.txt (2.2MB).
+
 
 ## ⭐ Support
 
